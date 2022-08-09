@@ -53,8 +53,6 @@
 >
 > > `index.js`: server 메인
 > >
-> > `config/` : 환경변수 관련 (리팩토링 필요)
-> >
 > > `middleware/` : 미들웨어
 > >
 > > `models/`: DB Schema
